@@ -1,0 +1,20 @@
+.single-band {
+    border: 1px solid rgb(247, 35, 77);
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px gray;
+    padding: 10px;
+    background-color: beige;
+}
+.color-btn {
+    background-color: rgb(247, 35, 77) ;
+    color: white;
+    font-weight: 500;
+    border: 1px solid crimson;
+    padding: 4px 15px;
+    border-radius: 5px;
+}
+.color-btn:hover {
+    background-color: rgba(0, 0, 0, 0.726);
+}

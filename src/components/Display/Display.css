@@ -1,0 +1,11 @@
+.display-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.bands-container {
+    border-right: 1px solid rgba(252, 251, 251, 0.788);
+    margin-right: 5px;
+}
+.ht-color{
+    color: rgb(250, 196, 187);
+}

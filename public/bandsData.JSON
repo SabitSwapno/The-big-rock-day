@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Artcell",
+        "members": 4,
+        "charge": 300000,
+        "genre": "Progressive",
+        "location": "Dhaka",
+        "image": "https://img.discogs.com/wJdKgiQOxkkI8bkhtVddg-U-XXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-2316103-1514032377-1218.jpeg.jpg"
+    },
+    {
+        "name": "Ark",
+        "members": 5,
+        "charge": 200000,
+        "genre": "Soft Rock",
+        "location": "Chittagong",
+        "image": "http://2.bp.blogspot.com/-UEptoaEvjz0/T3aqdNGNzOI/AAAAAAAAALY/ClxApBpBgSM/s1600/Ark%28bandmusicbd.blogspot.com%29.jpg"
+    },
+    {
+        "name": "Aurthohin",
+        "members": 4,
+        "charge": 500000,
+        "genre": "Metal",
+        "location": "Chittagong",
+        "image": "https://alchetron.com/cdn/aurthohin-6e253cac-31f9-479c-a439-e902363c7e8-resize-750.jpeg"
+    },
+    {
+        "name": "Arbovirus",
+        "members": 5,
+        "charge": 200000,
+        "genre": "Thrash Metal",
+        "location": "Rajshahi",
+        "image": "https://i.pinimg.com/originals/4b/c2/2e/4bc22e0d00406921552cae3609ea0b9c.png"
+    },
+    {
+        "name": "AvoidRafa",
+        "members": 4,
+        "charge": 200000,
+        "genre": "Alternative Rock",
+        "location": "Dhaka",
+        "image": "https://i.pinimg.com/236x/c7/35/e4/c735e4d8ce1e03f378e33143a5effa38.jpg"
+    },
+    {
+        "name": "Black",
+        "members": 4,
+        "charge": 300000,
+        "genre": "Alternative Rock",
+        "location": "Dhaka",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Black_Bangladeshi_Band.jpg"
+    },
+    {
+        "name": "Bay Of Bengal",
+        "members": 5,
+        "charge": 150000,
+        "genre": "Hard Rock",
+        "location": "Chittagong",
+        "image": "https://i.ytimg.com/vi/-8-mtXfnDJ0/hqdefault.jpg"
+    },
+    {
+        "name": "Chitkutt",
+        "members": 6,
+        "charge": 500000,
+        "genre": "Alternative Rock",
+        "location": "Dhaka",
+        "image": "https://i.pinimg.com/originals/e5/11/0b/e5110b1aa63749a8657d6d15f9ddb83f.jpg"
+    },
+    {
+        "name": "Nagarbaul James",
+        "members": 5,
+        "charge": 1000000,
+        "genre": "Hard Rock",
+        "location": "Chittagong",
+        "image": "https://live.staticflickr.com/2409/2504890033_7175b6d10f_b.jpg"
+    },
+    {
+        "name": "Lrb",
+        "members": 4,
+        "charge": 700000,
+        "genre": "Hard Rock",
+        "location": "Chittagong",
+        "image": "https://media-eng.dhakatribune.com/uploads/2019/04/untitled-1-1555506806863.jpg"
+    },
+    {
+        "name": "Miles",
+        "members": 5,
+        "charge": 800000,
+        "genre": "Alternative Rock",
+        "location": "Dhaka",
+        "image": "https://images.prothomalo.com/prothomalo-english/import/media/2019/05/13/966021d116e7b7e7768d560d844682fd-Untitled-22.jpg"
+    },
+    {
+        "name": "Nemesis",
+        "members": 5,
+        "charge": 200000,
+        "genre": "progressive",
+        "location": "Dhaka",
+        "image": "https://alchetron.com/cdn/nemesis-bangladeshi-band-9f7a408e-7564-44b2-a529-a79faed5201-resize-750.jpeg"
+    },
+    {
+        "name": "Shunno",
+        "members": 4,
+        "charge": 500000,
+        "genre": "Alternative Rock",
+        "location": "Dhaka",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLReEnmRpAtXPLTYlbV1_SE3uROm1vTLVS0Nrdjw8Q=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Shironamhin",
+        "members": 5,
+        "charge": 400000,
+        "genre": "Alternative Rock",
+        "location": "Dhaka",
+        "image": "https://live.staticflickr.com/8521/8632254288_fdc4ca9cc2_c.jpg"
+    },
+    {
+        "name": "Warfaze",
+        "members": 7,
+        "charge": 500000,
+        "genre": "Hard Rock",
+        "location": "Dhaka",
+        "image": "https://pbs.twimg.com/media/EbsidvvUEAEGDQE.jpg"
+    }
+]
