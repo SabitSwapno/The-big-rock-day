@@ -4,7 +4,7 @@ This project is very interesting for all the music lovers here.He can choose his
 
 ## Live site link 
 
-This is the live site: (https://elastic-engelbart-bb5d2b.netlify.app/)
+This is the live site: (https://the-big-rock-day-assignment.netlify.app/)
 
 ### `anonymous function`
 
